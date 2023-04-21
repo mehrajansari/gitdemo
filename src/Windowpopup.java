@@ -9,7 +9,9 @@ public class Windowpopup {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://admin:admin@the-internet.herokuapp.com/");
 		driver.findElement(By.linkText("Basic Auth")).click();
-		
+		System.out.println("mehraj");
+		System.out.println("mohd");
+		System.out.println("india");
 
 	}
 
