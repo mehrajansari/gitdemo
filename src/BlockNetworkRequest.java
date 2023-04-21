@@ -12,6 +12,9 @@ public class BlockNetworkRequest {
 //		devTools.createSession();
 //		devTools.send(
 		driver.get("https://www.google.com/");
+		System.out.println("mehraj");
+		System.out.println("mohd");
+		System.out.println("india");
 	}
 
 }
